@@ -1,5 +1,5 @@
 {
-[
+"jugadores":[
   {
     "id": 1,
     "name": "Lionel Messi",
@@ -30,12 +30,11 @@
     "position": "Delantero",
     "club": "Barcelona"
   }
-]
+],
 
-}
 
-{
-[
+
+"clubs":[
   {
     "id": 1,
     "name": "Paris Saint-Germain",
